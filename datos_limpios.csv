@@ -1,0 +1,239 @@
+rank,Patrimonio neto,category,Nombre,age,country,city,Fuente de riqueza,industries,País de ciudadanía ,organization,status,Género,birthDate,title,state,Región de residencia
+2,"$18,000,000.00",Automotive,Elon Musk,51,United States,Austin,"Tesla, SpaceX",Automotive,United States,Tesla,D,M,1971-06-28,CEO,Texas,South
+3,"$11,400,000.00",Technology,Jeff Bezos,59,United States,Medina,Amazon,Technology,United States,Amazon,D,M,1964-01-12,Chairman and Founder,Washington,West
+4,"$10,700,000.00",Technology,Larry Ellison,78,United States,Lanai,Oracle,Technology,United States,Oracle,U,M,1944-08-17,CTO and Founder,Hawaii,West
+5,"$10,600,000.00",Finance & Investments,Warren Buffett,92,United States,Omaha,Berkshire Hathaway,Finance & Investments,United States,Berkshire Hathaway Inc. (Cl A),D,M,1930-08-30,CEO,Nebraska,Midwest
+6,"$10,400,000.00",Technology,Bill Gates,67,United States,Medina,Microsoft,Technology,United States,Bill & Melinda Gates Foundation,D,M,1955-10-28,Cochair,Washington,West
+7,"$9,450,000.00",Media & Entertainment,Michael Bloomberg,81,United States,New York,Bloomberg LP,Media & Entertainment,United States,Bloomberg,U,M,1942-02-14,CEO,New York,Northeast
+10,"$8,070,000.00",Technology,Steve Ballmer,67,United States,Hunts Point,Microsoft,Technology,United States,Los Angeles Clippers,D,M,1956-03-24,Owner,Washington,West
+12,"$7,920,000.00",Technology,Larry Page,50,United States,Palo Alto,Google,Technology,United States,Alphabet,D,M,1973-03-26,Cofounder and board member,California,West
+14,"$7,600,000.00",Technology,Sergey Brin,49,United States,Los Altos,Google,Technology,United States,Alphabet,D,M,1973-08-21,Cofounder and board member,California,West
+16,"$6,440,000.00",Technology,Mark Zuckerberg,38,United States,Palo Alto,Facebook,Technology,United States,Meta Platforms,D,M,1984-05-14,Cofounder,California,West
+17,"$5,900,000.00",Diversified,Charles Koch & family,87,United States,Wichita,Koch Industries,Diversified,United States,"Koch Industries, Inc.",D,M,1935-11-01,Chairman and CEO,Kansas,Midwest
+19,"$5,880,000.00",Fashion & Retail,Jim Walton,74,United States,Bentonville,Walmart,Fashion & Retail,United States,"Arvest Bank Group, Inc.",D,M,1948-06-07,Chairman and CEO,Arkansas,South
+20,"$5,760,000.00",Fashion & Retail,Rob Walton & family,78,United States,Bentonville,Walmart,Fashion & Retail,United States,Walmart,D,M,1944-10-27,Director,Arkansas,South
+21,"$5,670,000.00",Fashion & Retail,Alice Walton,73,United States,Fort Worth,Walmart,Fashion & Retail,United States,Crystal Bridges Museum of American Art,D,F,1949-10-07,Philanthropist,Texas,South
+23,"$5,010,000.00",Technology,Michael Dell,58,United States,Austin,Dell Technologies,Technology,United States,Dell Inc.,D,M,1965-02-23,Chairman and CEO,Texas,South
+25,"$4,510,000.00",Fashion & Retail,Phil Knight & family,85,United States,Hillsboro,Nike,Fashion & Retail,United States,Nike,D,M,1938-02-24,Chairman,Oregon,West
+35,"$3,500,000.00",Finance & Investments,Ken Griffin,54,United States,Miami,Hedge funds,Finance & Investments,United States,Citadel LLC,U,M,1968-10-15,Founder & CEO,Florida,South
+49,"$2,810,000.00",Finance & Investments,Jim Simons,84,United States,East Setauket,Hedge funds,Finance & Investments,United States,Renaissance Technologies Corp.,D,M,1938-04-25,Founder,New York,Northeast
+50,"$2,780,000.00",Finance & Investments,Stephen Schwarzman,76,United States,New York,Investments,Finance & Investments,United States,Blackstone Group,D,M,1947-02-14,Chairman and CEO,New York,Northeast
+72,"$2,160,000.00",Finance & Investments,Abigail Johnson,61,United States,Milton,Fidelity,Finance & Investments,United States,Fidelity Investments,U,F,1961-12-19,CEO,Massachusetts,Northeast
+76,"$2,110,000.00",Technology,Jensen Huang,60,United States,Los Altos,Semiconductors,Technology,United States,Nvidia,U,M,1963-02-17,CEO & President,California,West
+77,"$2,100,000.00",Fashion & Retail,Leonard Lauder,90,United States,New York,Estee Lauder,Fashion & Retail,United States,The Estée Lauder Companies,D,M,1933-03-19,Chairman Emeritus,New York,Northeast
+83,"$1,910,000.00",Finance & Investments,Ray Dalio,73,United States,Greenwich,Hedge funds,Finance & Investments,United States,Bridgewater Associates,D,M,1949-08-08,Founder & Co-Chief Investment Officer,Connecticut,Northeast
+89,"$1,850,000.00",Energy,Harold Hamm & family,77,United States,Oklahoma City,Oil & gas,Energy,United States,Continental Resources Inc. ,U,M,1945-12-11,Chairman and CEO,Oklahoma,South
+89,"$1,850,000.00",Finance & Investments,David Tepper,65,United States,Palm Beach,Hedge funds,Finance & Investments,United States,Appaloosa Management,U,M,1957-09-11,President and Founder,Florida,South
+94,"$1,750,000.00",Finance & Investments,Steve Cohen,66,United States,Greenwich,Hedge funds,Finance & Investments,United States,Point72 Asset Management,U,M,1956-06-11,Founder,Connecticut,Northeast
+94,"$1,750,000.00",Finance & Investments,Carl Icahn,87,United States,Indian Creek,Investments,Finance & Investments,United States,Icahn Capital Management,U,M,1936-02-16,Founder,Florida,South
+97,"$1,740,000.00",Real Estate,Donald Bren,90,United States,Newport Beach,Real estate,Real Estate,United States,Irvine Company,U,M,1932-05-11,Chairman,California,West
+97,"$1,740,000.00",Fashion & Retail,"John Menard, Jr.",83,United States,Eau Claire,Home improvement stores,Fashion & Retail,United States,"Menard, Inc.",U,M,1940-01-22,Founder,Wisconsin,Midwest
+99,"$1,710,000.00",Media & Entertainment,Rupert Murdoch & family,92,United States,New York,"Newspapers, TV network",Media & Entertainment,United States,News Corp Class A,D,M,1931-03-11,Chairman and CEO,New York,Northeast
+113,"$1,550,000.00",Technology,Robert Pera,45,United States,San Jose,Wireless networking,Technology,United States,Ubiquiti,U,M,1978-03-10,Chief Executive Officer,California,West
+116,"$1,490,000.00",Fashion & Retail,David Green & family,81,United States,Oklahoma City,Retail,Fashion & Retail,United States,Hobby Lobby,U,M,1941-11-13,CEO,Oklahoma,South
+130,"$1,370,000.00",Construction & Engineering,Diane Hendricks,76,United States,Afton,Building supplies,Construction & Engineering,United States,ABC Supply,U,F,1947-03-02,Cofounder,Wisconsin,Midwest
+130,"$1,370,000.00",Technology,Jan Koum,47,United States,Atherton,WhatsApp,Technology,United States,WhatsApp Inc.,U,M,1976-02-24,"CEO, cofounder",California,West
+133,"$1,330,000.00",Sports,Jerry Jones,80,United States,Dallas,Dallas Cowboys,Sports,United States,Dallas Cowboys,U,M,1942-10-13,President and General Manager,Texas,South
+133,"$1,330,000.00",Energy,George Kaiser,80,United States,Tulsa,"Oil & gas, banking",Energy,United States,BOK Financial Corp.,U,M,1942-07-29,Chairman,Oklahoma,South
+145,"$1,200,000.00",Technology,Laurene Powell Jobs & family,59,United States,Palo Alto,"Apple, Disney",Technology,United States,Emerson Collective,D,F,1963-11-06,"Investor, Philanthropist",California,West
+151,"$1,140,000.00",Fashion & Retail,Michael Rubin,50,United States,Bryn Mawr,Online retail,Fashion & Retail,United States,Kynetic,U,M,1972-07-21,CEO,Pennsylvania,Northeast
+153,"$1,130,000.00",Finance & Investments,Israel Englander,74,United States,New York,Hedge funds,Finance & Investments,United States,"Millennium Management, L.L.C.",D,M,1948-09-30,Founder,New York,Northeast
+161,"$1,090,000.00",Fashion & Retail,Judy Love & family,85,United States,Oklahoma City,Gas stations,Fashion & Retail,United States,Love's Travel Stops and Country Stores,U,F,1937-06-17,Chairman and CEO,Oklahoma,South
+165,"$1,060,000.00",Sports,Robert Kraft,81,United States,Brookline,"Manufacturing, New England Patriots",Sports,United States,The Kraft Group,U,M,1941-06-05,Chairman & CEO,Massachusetts,Northeast
+171,"$1,020,000.00",Technology,David Duffield,82,United States,Incline Village,Business software,Technology,United States,Workday,D,M,1940-09-21,Chairman and Cofounder,Nevada,West
+195,"$960,000.00",Technology,Rick Cohen & family,70,United States,Keene,Warehouse automation,Technology,United States,C&S Wholesale Grocers,N,M,1952-07-25,Entrepreneur,New Hampshire,Northeast
+206,"$930,000.00",Technology,Brian Chesky,41,United States,San Francisco,Airbnb,Technology,United States,"Airbnb, Inc.",D,M,1981-08-29,CEO and Cofounder,California,West
+208,"$920,000.00",Finance & Investments,Charles Schwab,85,United States,Woodside,Discount brokerage,Finance & Investments,United States,Charles Schwab Corp.,D,M,1937-07-29,Investor,California,West
+215,"$900,000.00",Technology,David Cheriton,72,United States,Palo Alto,Google,Technology,Canada,Stanford University,D,M,1951-03-29,Professor,California,West
+223,"$880,000.00",Technology,John Doerr,71,United States,Woodside,Venture capital,Technology,United States,Kleiner Perkins,D,M,1951-06-29,Investor,California,West
+223,"$880,000.00",Technology,Dustin Moskovitz,38,United States,San Francisco,Facebook,Technology,United States,Asana,D,M,1984-05-22,Cofounder,California,West
+223,"$880,000.00",Technology,Pierre Omidyar,55,United States,Honolulu,"EBay, PayPal",Technology,United States,eBay,D,M,1967-06-21,Founder,Hawaii,West
+232,"$860,000.00",Technology,Andreas von Bechtolsheim & family,67,United States,Palo Alto,Google,Technology,Germany,Arista Networks,D,M,1955-09-30,"Cofounder, Chief Development Officer and Chairman",California,West
+239,"$850,000.00",Finance & Investments,"Chase Coleman, III.",47,United States,New York,Investments,Finance & Investments,United States,Tiger Global Management,D,M,1975-06-21,Investor,New York,Northeast
+242,"$840,000.00",Media & Entertainment,Jim Kennedy,75,United States,Atlanta,"Media, automotive",Media & Entertainment,United States,Cox Enterprises,U,M,1947-11-29,Chairman Emeritus,Georgia,South
+256,"$810,000.00",Food & Beverage,Tilman Fertitta,65,United States,Houston,"Houston Rockets, entertainment",Food & Beverage,United States,Landry's Inc,U,M,1957-06-25,Chairman and CEO,Texas,South
+261,"$800,000.00",Fashion & Retail,Bernard Marcus,93,United States,Atlanta,Home Depot,Fashion & Retail,United States,Home Depot,D,M,1929-05-12,"Co-founder, ex chairman of the board",Georgia,South
+261,"$800,000.00",Finance & Investments,Patrick Ryan,85,United States,Winnetka,Insurance,Finance & Investments,United States,Ryan Specialty Group,E,M,1937-05-15,Chairman and CEO,Illinois,Midwest
+268,"$790,000.00",Finance & Investments,David Shaw,72,United States,New York,Hedge funds,Finance & Investments,United States,"D. E. Shaw & Co., L.P.",U,M,1951-03-29,Founder,New York,Northeast
+282,"$770,000.00",Media & Entertainment,David Geffen,80,United States,Beverly Hills,"Movies, record labels",Media & Entertainment,United States,DreamWorks Animation SKG Inc. (Cl A),D,M,1943-02-21,Cofounder,California,West
+282,"$770,000.00",Technology,Henry Samueli,68,United States,Newport Beach,Semiconductors,Technology,United States,Broadcom,U,M,1954-09-20,"Cofounder, Chief Technology Officer and Chairman",California,West
+290,"$760,000.00",Real Estate,Leonard Stern,85,United States,New York,Real estate,Real Estate,United States,"Hartz Mountain Industries, Inc.",U,M,1938-03-28,Chairman and CEO,New York,Northeast
+290,"$760,000.00",Technology,Joe Gebbia,41,United States,Austin,Airbnb,Technology,United States,"Airbnb, Inc.",D,M,1981-08-21,Cofounder & Chair of Airbnb.org,Texas,South
+299,"$750,000.00",Sports,Arthur Blank,80,United States,Atlanta,Home Depot,Sports,United States,Atlanta Falcons,U,M,1942-09-27,Chairman,Georgia,South
+299,"$750,000.00",Finance & Investments,"Paul Tudor Jones, II.",68,United States,Palm Beach,Hedge funds,Finance & Investments,United States,Tudor Investment Corporation,U,M,1954-09-28,Founder,Florida,South
+299,"$750,000.00",Finance & Investments,Henry Kravis,79,United States,New York,Private equity,Finance & Investments,United States,KKR & Co.,D,M,1944-01-06,Co-Chair and Co-CEO,New York,Northeast
+305,"$740,000.00",Technology,James Goodnight,80,United States,Cary,Software,Technology,United States,SAS Institute,U,M,1943-01-06,CEO,North Carolina,South
+305,"$740,000.00",Manufacturing,Steven Rales,72,United States,Santa Barbara,"Manufacturing, investments",Manufacturing,United States,Danaher,D,M,1951-03-31,Investor,California,West
+317,"$720,000.00",Finance & Investments,Don Hankey,79,United States,Malibu,Auto loans,Finance & Investments,United States,Hankey Group,U,M,1943-06-13,Chairman,California,West
+317,"$720,000.00",Energy,Richard Kinder,78,United States,Houston,Pipelines,Energy,United States,Kinder Morgan Inc,D,M,1944-10-19,Chairman and CEO,Texas,South
+325,"$710,000.00",Technology,Judy Faulkner,79,United States,Madison,Healthcare software,Technology,United States,Epic Systems,U,F,1943-08-01,Founder and CEO,Wisconsin,Midwest
+332,"$700,000.00",Technology,Marc Benioff,58,United States,San Francisco,Business software,Technology,United States,Salesforce.com,D,M,1964-09-25,Chairman and CEO,California,West
+332,"$700,000.00",Fashion & Retail,Ralph Lauren,83,United States,New York,Apparel,Fashion & Retail,United States,Ralph Lauren,U,M,1939-10-14,Chairman ,New York,Northeast
+332,"$700,000.00",Food & Beverage,J. Christopher Reyes,69,United States,Hobe Sound,Food distribution,Food & Beverage,United States,"Reyes Holdings, LLC",D,M,1953-12-29,Co-Chairman,Florida,South
+332,"$700,000.00",Food & Beverage,Jude Reyes,67,United States,Palm Beach,Food distribution,Food & Beverage,United States,"Reyes Holdings, LLC",D,M,1955-09-16,Co-Chairman,Florida,South
+344,"$690,000.00",Finance & Investments,Philippe Laffont,55,United States,New York,Hedge fund,Finance & Investments,United States,Coatue Management,U,M,1967-09-16,Founder,New York,Northeast
+352,"$680,000.00",Finance & Investments,David Siegel,61,United States,Scarsdale,Hedge funds,Finance & Investments,United States,Two Sigma,U,M,1961-07-15,Investor,New York,Northeast
+352,"$680,000.00",Energy,Randa Duncan Williams,61,United States,Houston,Pipelines,Energy,United States,Enterprise GP Holdings,U,F,1961-08-28,Non-Executive Chairman of the Board,Texas,South
+352,"$680,000.00",Finance & Investments,John Overdeck,53,United States,Millburn,Hedge funds,Finance & Investments,United States,Two Sigma,U,M,1969-12-21,Investor,New Jersey,Northeast
+352,"$680,000.00",Finance & Investments,Yuri Milner,61,United States,Los Altos,Tech investments,Finance & Investments,Israel,DST Global,D,M,1961-11-11,Investor,California,West
+365,"$670,000.00",Energy,Terrence Pegula,72,United States,Boca Raton,Natural gas,Energy,United States,Buffalo Sabres,U,M,1951-03-27,Owner,Florida,South
+365,"$670,000.00",Real Estate,"Edward Roski, Jr.",84,United States,Los Angeles,Real estate,Real Estate,United States,"Majestic Realty, Co.",U,M,1938-12-25,President and Chairman,California,West
+365,"$670,000.00",Real Estate,John A. Sobrato & family,83,United States,Atherton,Real estate,Real Estate,United States,Sobrato Development Cos.,U,M,1939-05-23,Founder and Chairman,California,West
+365,"$670,000.00",Finance & Investments,George Soros,92,United States,Katonah,Hedge funds,Finance & Investments,United States,Soros Fund Management LLC,D,M,1930-08-12,Founder,New York,Northeast
+365,"$670,000.00",Technology,David Sun,71,United States,Irvine,Computer hardware,Technology,United States,Kingston Technology Corporation,U,M,1951-10-12,COO,California,West
+365,"$670,000.00",Technology,John Tu,81,United States,Rolling Hills,Computer hardware,Technology,United States,Kingston Technology Corporation,U,M,1941-08-12,President,California,West
+383,"$660,000.00",Finance & Investments,Bruce Kovner,78,United States,New York,Hedge funds,Finance & Investments,United States,Caxton Associates LP,U,M,1945-02-25,Founder,New York,Northeast
+383,"$660,000.00",Technology,"Henry Nicholas, III.",63,United States,Newport Coast,Semiconductors,Technology,United States,Broadcom,U,M,1959-10-08,Cofounder,California,West
+390,"$650,000.00",Technology,Melinda French Gates,58,United States,Medina,Microsoft,Technology,United States,Bill & Melinda Gates Foundation,U,F,1964-08-15,Cochair,Washington,West
+397,"$640,000.00",Sports,Stephen Bisciotti,62,United States,Hobe Sound,"Staffing, Baltimore Ravens",Sports,United States,Baltimore Ravens,U,M,1960-04-10,Owner,Florida,South
+397,"$640,000.00",Finance & Investments,Stanley Druckenmiller,69,United States,New York,Hedge funds,Finance & Investments,United States,Duquesne Family Office,D,M,1953-06-14,Founder,New York,Northeast
+437,"$590,000.00",Finance & Investments,Andreas Halvorsen,61,United States,Darien,Hedge funds,Finance & Investments,Norway,Viking Global Investors,D,M,1961-04-23,Investor,Connecticut,Northeast
+466,"$550,000.00",Service,Micky Arison,73,United States,Bal Harbour,Carnival Cruises,Service,United States,Carnival Corp.,D,M,1949-06-29,Chairman and CEO,Florida,South
+466,"$550,000.00",Technology,John Collison,32,United States,San Francisco,Payments software,Technology,Ireland,Stripe,D,M,1990-08-06,Cofounder,California,West
+466,"$550,000.00",Technology,Patrick Collison,34,United States,San Francisco,Payment software,Technology,Ireland,Stripe,D,M,1988-09-09,Cofounder,California,West
+466,"$550,000.00",Automotive,Dan Friedkin,58,United States,Houston,Toyota dealerships,Automotive,United States,Gulf States Toyota,U,M,1965-02-27,owner and ceo,Texas,South
+466,"$550,000.00",Finance & Investments,Paul Singer,78,United States,New York,Hedge funds,Finance & Investments,United States,Elliott Management,U,M,1944-08-22,Investor,New York,Northeast
+497,"$530,000.00",Finance & Investments,Douglas Leone,65,United States,Atherton,Venture capital,Finance & Investments,United States,Sequoia,D,M,1957-07-04,Global Managing Partner,California,West
+497,"$530,000.00",Finance & Investments,Thomas Pritzker,72,United States,Chicago,"Hotels, investments",Finance & Investments,United States,Hyatt Hotels,U,M,1950-06-06,Executive Chairman,Illinois,Midwest
+497,"$530,000.00",Finance & Investments,Mark Walter,62,United States,Chicago,"Finance, asset management",Finance & Investments,United States,Guggenheim Partners LLC,U,M,1960-05-22,CEO,Illinois,Midwest
+523,"$510,000.00",Finance & Investments,Charles B. Johnson,90,United States,Palm Beach,Franklin Templeton,Finance & Investments,United States,Franklin Resources Inc.,E,M,1933-01-06,Former Chairman and CEO,Florida,South
+523,"$510,000.00",Technology,Romesh T. Wadhwani,75,United States,Palo Alto,Software,Technology,United States,Symphony Technology Group,U,M,1947-08-25,Founder and Chairman,California,West
+523,"$510,000.00",Sports,Denise York & family,72,United States,Youngstown,San Francisco 49ers,Sports,United States,San Francisco 49ers,U,F,1950-10-21,Co-Chairman,Ohio,Midwest
+552,"$490,000.00",Manufacturing,Jim Davis & family,79,United States,Newton,New Balance,Manufacturing,United States,New Balance,D,M,1943-05-17,Chairman,Massachusetts,Northeast
+567,"$480,000.00",Fashion & Retail,Jimmy Haslam,69,United States,Knoxville,"Gas stations, retail",Fashion & Retail,United States,Pilot Flying J,U,M,1954-03-09,CEO,Tennessee,South
+567,"$480,000.00",Technology,Vinod Khosla,68,United States,Portola Valley,Venture capital,Technology,United States,Khosla Ventures,D,M,1955-01-28,Investor,California,West
+591,"$460,000.00",Technology,Jack Dorsey,46,United States,San Francisco,"Twitter, Square",Technology,United States,Twitter,D,M,1976-11-19,Cofounder,California,West
+591,"$460,000.00",Logistics,Fred Smith,78,United States,Memphis,FedEx,Logistics,United States,FedEx Corp.,D,M,1944-08-11,Chairman and CEO,Tennessee,South
+591,"$460,000.00",Media & Entertainment,Charles Dolan & family,96,United States,Oyster Bay,Cable television,Media & Entertainment,United States,Cablevision Systems Corp.,D,M,1926-10-16,Chairman and Founder,New York,Northeast
+591,"$460,000.00",Media & Entertainment,Mark Cuban,64,United States,Dallas,"Online media, Dallas Mavericks",Media & Entertainment,United States,Dallas Mavericks,D,M,1958-07-31,Owner,Texas,South
+624,"$440,000.00",Finance & Investments,Joe Mansueto,66,United States,Chicago,Investment research,Finance & Investments,United States,Morningstar Inc.,D,M,1956-09-03,"Entrepreneur, Investor",Illinois,Midwest
+659,"$420,000.00",Finance & Investments,"Rupert Johnson, Jr.",82,United States,Burlingame,Franklin Templeton,Finance & Investments,United States,Franklin Resources Inc.,D,M,1940-08-10,Vice Chairman and Director,California,West
+659,"$420,000.00",Technology,Eric Lefkofsky,53,United States,Glencoe,"Groupon, investments",Technology,United States,Groupon,U,M,1969-09-02,Chairman,Illinois,Midwest
+659,"$420,000.00",Technology,Michael Moritz,68,United States,San Francisco,Venture capital,Technology,United States,Sequoia,D,M,1954-09-12,Investor,California,West
+659,"$420,000.00",Finance & Investments,Peter Thiel,55,United States,Los Angeles,"Facebook, investments",Finance & Investments,United States,Founders Fund,D,M,1967-10-11,Investor,California,West
+699,"$400,000.00",Technology,Travis Kalanick,46,United States,Los Angeles,Uber,Technology,United States,Uber Technologies Inc.,U,M,1976-08-06,Cofounder,California,West
+699,"$400,000.00",Media & Entertainment,Isaac Perlmutter,80,United States,Palm Beach,Marvel comics,Media & Entertainment,United States,Marvel Entertainment,D,M,1942-12-01,Chairman,Florida,South
+699,"$400,000.00",Finance & Investments,"Bernard Saul, II.",90,United States,Chevy Chase,"Banking, real estate",Finance & Investments,United States,Saul Centers,U,M,1932-04-15,Chairman and CEO,Maryland,South
+721,"$390,000.00",Gambling & Casinos,Gabe Newell,60,United States,Seattle,Videogames,Gambling & Casinos,United States,Valve Corporation,E,M,1962-11-03,Cofounder and CEO,Washington,West
+721,"$390,000.00",Sports,James Irsay,63,United States,Carmel,Indianapolis Colts,Sports,United States,Indianapolis Colts,U,M,1959-06-13,CEO,Indiana,Midwest
+748,"$380,000.00",Service,Steven Udvar-Hazy,77,United States,Westlake,Aircraft leasing,Service,United States,Air Lease Corp.,D,M,1946-02-23,CEO and Chairman,Texas,South
+748,"$380,000.00",Media & Entertainment,Martha Ingram & family,87,United States,Nashville,"Book distribution, transportation",Media & Entertainment,United States,"Ingram Industries, Inc.",D,F,1935-08-20,Former Chairman,Tennessee,South
+748,"$380,000.00",Finance & Investments,Stephen Feinberg,63,United States,New York,Private equity,Finance & Investments,United States,Cerberus Capital Management,U,M,1960-03-29,Co-founder and CEO,New York,Northeast
+766,"$370,000.00",Finance & Investments,William Berkley,76,United States,Coconut Grove,Insurance,Finance & Investments,United States,WR Berkley,E,M,1946-09-01,Chairman and CEO,Florida,South
+766,"$370,000.00",Finance & Investments,Daniel Och,62,United States,Miami Beach,Hedge funds,Finance & Investments,United States,Och-Ziff Capital Management,D,M,1961-01-27,Founder,Florida,South
+766,"$370,000.00",Technology,John Sall,75,United States,Cary,Software,Technology,United States,SAS Institute,U,M,1948-04-04,"Co-Founder, Executive Vice President",North Carolina,South
+766,"$370,000.00",Fashion & Retail,Richard Schulze,82,United States,Naples,Best Buy,Fashion & Retail,United States,Best Buy Co. Inc.,D,M,1941-01-02,Chairman,Florida,South
+787,"$360,000.00",Finance & Investments,Josh Kushner,37,United States,New York City,Venture capital,Finance & Investments,United States,Thrive Capital,U,M,1985-06-12,Managing Partner,New York,Northeast
+787,"$360,000.00",Finance & Investments,"Stephen Mandel, Jr.",67,United States,Greenwich,Hedge funds,Finance & Investments,United States,Lone Pine Capital,D,M,1956-03-12,Founder,Connecticut,Northeast
+818,"$350,000.00",Finance & Investments,Daniel Loeb,61,United States,New York,Hedge funds,Finance & Investments,United States,Third Point,D,M,1961-12-18,Investor,New York,Northeast
+818,"$350,000.00",Finance & Investments,Scott Shleifer,45,United States,New York,Private equity,Finance & Investments,United States,Tiger Global Management,D,M,1977-06-14,Investor,New York,Northeast
+852,"$340,000.00",Real Estate,Herb Simon,88,United States,Indianapolis,Real estate,Real Estate,United States,Simon Property Group,D,M,1934-10-23,"Chairman Emeritus of the Board of Simon Property Group, Inc.",Indiana,Midwest
+852,"$340,000.00",Media & Entertainment,"Amos Hostetter, Jr.",86,United States,Boston,Cable television,Media & Entertainment,United States,Pilot House Associates,D,M,1937-01-12,Chair,Massachusetts,Northeast
+852,"$340,000.00",Finance & Investments,Steven Klinsky,66,United States,New York,Investments,Finance & Investments,United States,New Mountain Capital,E,M,1956-05-30,Founder & CEO,New York,Northeast
+852,"$340,000.00",Finance & Investments,William Ackman,56,United States,New York,Hedge funds,Finance & Investments,United States,"Pershing Square Capital Management, L.P.",U,M,1966-05-11,"Founder, CEO",New York,Northeast
+852,"$340,000.00",Technology,Eric Yuan & family,53,United States,Santa Clara,Zoom Video Communications,Technology,United States,Zoom Video Communications,D,M,1970-02-20,Founder and CEO,California,West
+878,"$330,000.00",Finance & Investments,John Arnold,49,United States,Houston,Hedge funds,Finance & Investments,United States,Centaurus Advisors,E,M,1974-03-09,Founder,Texas,South
+878,"$330,000.00",Finance & Investments,Rodger Riney & family,77,United States,St. Louis,Discount brokerage,Finance & Investments,United States,"Scottrade, Inc.",D,M,1946-01-01,Cofounder,Missouri,Midwest
+878,"$330,000.00",Finance & Investments,Jeffrey Talpins,48,United States,Larchmont,Hedge fund,Finance & Investments,United States,Element Capital Management,U,M,1975-03-06,Founder,New York,Northeast
+905,"$320,000.00",Media & Entertainment,Charles Ergen,70,United States,Denver,Satellite TV,Media & Entertainment,United States,DISH Network,D,M,1953-03-01,Founder and Chairman,Colorado,West
+905,"$320,000.00",Technology,David Filo,56,United States,Palo Alto,Yahoo,Technology,United States,Yahoo!,D,M,1966-04-15,Chief Yahoo,California,West
+905,"$320,000.00",Finance & Investments,David Rubenstein,73,United States,Bethesda,Private equity,Finance & Investments,United States,Carlyle Group,D,M,1949-08-11,Cofounder and Co-executive Chairman,Maryland,South
+905,"$320,000.00",Gambling & Casinos,Steve Wynn,81,United States,Palm Beach,"Casinos, hotels",Gambling & Casinos,United States,Wynn Resorts,D,M,1942-01-27,Cofounder,Florida,South
+949,"$310,000.00",Technology,Reed Hastings,62,United States,Santa Cruz,Netflix,Technology,United States,Netflix,D,M,1960-10-08,CEO,California,West
+949,"$310,000.00",Finance & Investments,Jonathan Nelson,66,United States,Providence,Private equity,Finance & Investments,United States,Providence Equity Partners,U,M,1956-05-18,Executive Chairman ,Rhode Island,Northeast
+949,"$310,000.00",Finance & Investments,Penny Pritzker,63,United States,Chicago,"Hotels, investments",Finance & Investments,United States,Inspired Capital,D,F,1959-05-02,Cofounder,Illinois,Midwest
+982,"$300,000.00",Finance & Investments,John Paulson,67,United States,New York,Hedge funds,Finance & Investments,United States,Paulson & Co. Inc.,D,M,1955-12-14,Founder,New York,Northeast
+982,"$300,000.00",Finance & Investments,"William Conway, Jr.",73,United States,McLean,Private equity,Finance & Investments,United States,Carlyle Group,D,M,1949-08-27,Co-Chief Executive Officer and Co-founder,Virginia,South
+1027,"$290,000.00",Food & Beverage,Rodney Sacks,73,United States,Laguna Beach,Energy drinks,Food & Beverage,United States,Monster Beverage,U,M,1949-12-24,CEO,California,West
+1027,"$290,000.00",Food & Beverage,"William Wrigley, Jr.",59,United States,North Palm Beach,Chewing gum,Food & Beverage,United States,"Wrigley Management, Inc.",D,M,1963-11-01,Investor,Florida,South
+1027,"$290,000.00",Media & Entertainment,Kenneth Feld & family,74,United States,Sarasota,Live entertainment,Media & Entertainment,United States,Feld Entertainment,U,M,1948-10-31,Chairman,Florida,South
+1027,"$290,000.00",Technology,James Clark,79,United States,Palm Beach,"Netscape, investments",Technology,United States,Netscape Communications Corporation,D,M,1944-03-23,Cofounder,Florida,South
+1067,"$280,000.00",Technology,Garrett Camp,44,United States,San Francisco,Uber,Technology,Canada,Uber Technologies Inc.,E,M,1978-10-04,Cofounder and Chairman,California,West
+1067,"$280,000.00",Technology,Meg Whitman,66,United States,Los Angeles,EBay,Technology,United States,Quibi,D,F,1956-08-04,CEO,California,West
+1104,"$270,000.00",Technology,Jeff Rothschild,68,United States,Palo Alto,Facebook,Technology,United States,Meta Platforms,D,M,1955-01-02,Advisor,California,West
+1104,"$270,000.00",Technology,Evan Spiegel,32,United States,Los Angeles,Snapchat,Technology,United States,Snap,D,M,1990-06-04,Cofounder,California,West
+1164,"$260,000.00",Healthcare,Leonard Schleifer,70,United States,Tarrytown,Pharmaceuticals,Healthcare,United States,Regeneron Pharmaceuticals,U,M,1952-07-07,CEO and Founder,New York,Northeast
+1217,"$250,000.00",Food & Beverage,S. Daniel Abraham,98,United States,Palm Beach,Slim-Fast,Food & Beverage,United States,S. Daniel Abraham Center for Middle East Peace,U,M,1924-08-15,Chairman,Florida,South
+1217,"$250,000.00",Construction & Engineering,Riley Bechtel & family,71,United States,San Francisco,"Engineering, construction",Construction & Engineering,United States,Bechtel Corp.,D,M,1952-03-25,former Chairman and CEO,California,West
+1217,"$250,000.00",Finance & Investments,Leon G. Cooperman,79,United States,Boca Raton,Hedge funds,Finance & Investments,United States,"Omega Advisors, Inc.",E,M,1943-04-25,Founder,Florida,South
+1217,"$250,000.00",Finance & Investments,Joseph Edelman,67,United States,New York,Hedge funds,Finance & Investments,United States,Perceptive Advisors,D,M,1955-06-10,Founder & CEO,New York,Northeast
+1217,"$250,000.00",Technology,Bobby Murphy,34,United States,Venice,Snapchat,Technology,United States,Snap,D,M,1988-07-19,Cofounder,California,West
+1272,"$240,000.00",Fashion & Retail,Doris Fisher,91,United States,San Francisco,Gap,Fashion & Retail,United States,Gap Inc.,D,F,1931-08-23,Cofounder,California,West
+1272,"$240,000.00",Finance & Investments,Gerald Ford,78,United States,Dallas,Banking,Finance & Investments,United States,Ford Financial Fund,D,M,1944-08-04,Managing Member,Texas,South
+1272,"$240,000.00",Real Estate,Mortimer Zuckerman,85,United States,New York,"Real estate, media",Real Estate,United States,Boston Properties,D,M,1937-06-04,Chairman and CEO,New York,Northeast
+1272,"$240,000.00",Technology,Brian Acton,51,United States,Palo Alto,WhatsApp,Technology,United States,WhatsApp Inc.,D,M,1972-02-17,Cofounder,California,West
+1272,"$240,000.00",Technology,Jerry Yang,54,United States,Los Altos Hills,Yahoo,Technology,United States,Yahoo!,D,M,1968-11-06,Cofounder,California,West
+1312,"$230,000.00",Fashion & Retail,John Fisher,61,United States,San Francisco,Gap,Fashion & Retail,United States,"Pisces, Inc.",D,M,1961-06-01,President,California,West
+1312,"$230,000.00",Finance & Investments,Bruce Karsh,67,United States,Los Angeles,Private equity,Finance & Investments,United States,Oaktree Capital Group LLC,U,M,1955-10-10,President,California,West
+1312,"$230,000.00",Technology,Jayshree Ullal,62,United States,Saratoga,Computer networking,Technology,United States,Arista,U,F,1961-03-27,CEO,California,West
+1368,"$220,000.00",Real Estate,George Argyros & family,86,United States,Newport Beach,"Real estate, investments",Real Estate,United States,Arnel & Affiliates,D,M,1937-02-04,Investor,California,West
+1368,"$220,000.00",Technology,Aneel Bhusri,57,United States,San Francisco,Business software,Technology,United States,Workday,D,M,1966-02-04,Investor,California,West
+1368,"$220,000.00",Finance & Investments,Noam Gottesman,61,United States,New York,Hedge funds,Finance & Investments,United States,TOMS Capital,D,M,1961-05-24,Chief Executive Officer,New York,Northeast
+1368,"$220,000.00",Finance & Investments,Jeffrey Gundlach,64,United States,Los Angeles,Investments,Finance & Investments,United States,DoubleLine Capital,E,M,1959-01-01,CEO,California,West
+1368,"$220,000.00",Finance & Investments,Howard Marks,76,United States,New York,Private equity,Finance & Investments,United States,Oaktree Capital Group LLC,E,M,1946-04-23,Chairman,New York,Northeast
+1368,"$220,000.00",Finance & Investments,Charles Munger,99,United States,Los Angeles,Berkshire Hathaway,Finance & Investments,United States,Berkshire Hathaway Inc. (Cl A),D,M,1924-01-01,Vice Chairman,California,West
+1368,"$220,000.00",Technology,Kavitark Ram Shriram,66,United States,Menlo Park,"Venture capital, Google",Technology,United States,Sherpalo Ventures,D,M,1957-01-21,Investor,California,West
+1368,"$220,000.00",Finance & Investments,Henry Swieca,65,United States,New York,Hedge funds,Finance & Investments,United States,Talpion Fund Management,U,M,1957-05-09,Founder,New York,Northeast
+1434,"$210,000.00",Fashion & Retail,Edward Stack,68,United States,Sewickley,Dick's Sporting Goods,Fashion & Retail,United States,Dick's Sporting Goods,U,M,1954-12-27,Chairman and CEO,Pennsylvania,Northeast
+1434,"$210,000.00",Gambling & Casinos,Elaine Wynn,80,United States,Las Vegas,"Casinos, hotels",Gambling & Casinos,United States,"Wynn Las Vegas, LLC",U,F,1942-04-28,Board Member,Nevada,West
+1434,"$210,000.00",Food & Beverage,Hamdi Ulukaya,50,United States,Norwich,Greek yogurt,Food & Beverage,Turkey,Chobani,D,M,1972-10-26,Founder and CEO,New York,Northeast
+1434,"$210,000.00",Energy,Paul Foster,65,United States,El Paso,Oil refining,Energy,United States,Western Refining,U,M,1957-10-08,Chairman,Texas,South
+1434,"$210,000.00",Finance & Investments,Marc Lasry,62,United States,New York,Hedge funds,Finance & Investments,United States,Avenue Capital Group,U,M,1960-09-23,Founder,New York,Northeast
+1434,"$210,000.00",Energy,Gordon Getty,89,United States,San Francisco,Getty Oil,Energy,United States,Ann & Gordon Getty Foundation,E,M,1933-12-20,President and Chairman,California,West
+1575,"$190,000.00",Finance & Investments,Jennifer Pritzker,72,United States,Chicago,"Hotels, investments",Finance & Investments,United States,Tawani Enterprises,D,F,1950-08-13,CEO,Illinois,Midwest
+1575,"$190,000.00",Finance & Investments,Larry Robbins,53,United States,Alpine,Hedge funds,Finance & Investments,United States,Glenview Capital Management,E,M,1969-10-21,Investor,New Jersey,Northeast
+1575,"$190,000.00",Food & Beverage,Charlotte Colket Weber,80,United States,Hobe Sound,Campbell Soup,Food & Beverage,United States,Campbell Soup,U,F,1942-11-19,Director,Florida,South
+1575,"$190,000.00",Finance & Investments,James Dinan,63,United States,North Salem,Hedge funds,Finance & Investments,United States,York Capital Management,E,M,1959-05-22,Founder,New York,Northeast
+1575,"$190,000.00",Technology,Reid Hoffman,55,United States,Palo Alto,LinkedIn,Technology,United States,Greylock,D,M,1967-08-05,Partner,California,West
+1575,"$190,000.00",Finance & Investments,Edward Lampert,60,United States,Miami Beach,Sears,Finance & Investments,United States,ESL Investments Inc.,U,M,1962-07-19,Founder,Florida,South
+1575,"$190,000.00",Food & Beverage,James Leprino,85,United States,Indian Hills,Cheese,Food & Beverage,United States,Leprino Foods,D,M,1937-11-22,Chairman,Colorado,West
+1647,"$180,000.00",Technology,Evan Williams,51,United States,San Francisco,Twitter,Technology,United States,Twitter,D,M,1972-03-31,Cofounder and Director,California,West
+1647,"$180,000.00",Technology,Olivier Pomel,46,United States,New York,Cloud computing,Technology,France,Datadog,D,M,1977-03-26,Cofounder,New York,Northeast
+1647,"$180,000.00",Finance & Investments,Brian Higgins,58,United States,New York,Hedge funds,Finance & Investments,United States,King Street Capital Management,E,M,1965-02-08,Investor,New York,Northeast
+1647,"$180,000.00",Food & Beverage,Christopher Goldsbury,80,United States,San Antonio,Salsa,Food & Beverage,United States,Silver Ventures,E,M,1943-01-01,Chief Executive Officer,Texas,South
+1647,"$180,000.00",Technology,Tim Cook,62,United States,Cupertino,Apple,Technology,United States,Apple,D,M,1960-11-01,CEO,California,West
+1725,"$170,000.00",Technology,David Zalik,49,United States,Atlanta,Financial technology,Technology,United States,GreenSky,D,M,1974-02-02,CEO,Georgia,South
+1725,"$170,000.00",Media & Entertainment,Brian Roberts,63,United States,Philadelphia,Comcast,Media & Entertainment,United States,Comcast,U,M,1959-06-28,CEO,Pennsylvania,Northeast
+1725,"$170,000.00",Sports,Amy Adams Strunk,67,United States,Nashville,Tennessee Titans,Sports,United States,Tennessee Titans,N,F,1955-09-29,Owner,Tennessee,South
+1725,"$170,000.00",Technology,Alexis Lê-Quôc,48,United States,New York,Cloud computing,Technology,United States,Datadog,D,M,1974-11-14,Cofounder,New York,Northeast
+1725,"$170,000.00",Finance & Investments,David Booth,77,United States,Austin,Mutual funds,Finance & Investments,United States,Dimensional Fund Advisors,E,M,1946-01-01,Chairman and CEO,Texas,South
+1725,"$170,000.00",Technology,Jim Breyer,61,United States,Austin,Venture capital,Technology,United States,Breyer Capital,D,M,1961-07-26,Investor,Texas,South
+1725,"$170,000.00",Healthcare,Osman Kibar,52,United States,La Jolla,Biotech,Healthcare,United States,Samumed,D,M,1971-04-01,"Founder, CEO",California,West
+1725,"$170,000.00",Finance & Investments,Marc Andreessen,51,United States,Atherton,Venture capital investing,Finance & Investments,United States,Andreessen Horowitz,E,M,1971-07-09,Investor,California,West
+1725,"$170,000.00",Technology,Palmer Luckey,30,United States,Newport Beach,Virtual reality,Technology,United States,Oculus VR,N,M,1992-09-19,Entrepreneur,California,West
+1804,"$160,000.00",Media & Entertainment,Stanley Hubbard,89,United States,St. Paul,DirecTV,Media & Entertainment,United States,"Hubbard Broadcasting, Inc.",D,M,1933-05-28,Chairman and CEO,Minnesota,Midwest
+1804,"$160,000.00",Finance & Investments,Jamie Dimon,67,United States,New York,Banking,Finance & Investments,United States,JPMorgan Chase & Co.,E,M,1956-03-13,CEO,New York,Northeast
+1804,"$160,000.00",Finance & Investments,Bill Gross,78,United States,Laguna Beach,Investments,Finance & Investments,United States,Pacific Investment Management Company LLC,E,M,1944-04-13,Cofounder and Co-Chief Investment Officer,California,West
+1804,"$160,000.00",Finance & Investments,Louis Bacon,66,United States,Oyster Bay,Hedge funds,Finance & Investments,United States,"Moore Capital Management, LP",E,M,1956-07-25,Founder,New York,Northeast
+1804,"$160,000.00",Technology,Ryan Smith,44,United States,Provo,Cloud computing,Technology,United States,Qualtrics,E,M,1978-06-28,Co-Founder & CEO,Utah,West
+1905,"$150,000.00",Technology,Safra Catz,61,United States,Redwood City,Software,Technology,United States,Oracle,E,F,1961-12-13,CEO,California,South
+1905,"$150,000.00",Technology,Kevin Systrom,39,United States,San Francisco,Instagram,Technology,United States,Instagram,E,M,1983-12-30,Cofounder,California,West
+1905,"$150,000.00",Media & Entertainment,Ben Silbermann,40,United States,San Francisco,Social media,Media & Entertainment,United States,Pinterest,U,M,1982-07-14,Cofounder,California,West
+1905,"$150,000.00",Technology,Sheryl Sandberg,53,United States,Menlo Park,Facebook,Technology,United States,Meta Platforms,D,F,1969-08-28,COO,California,West
+1905,"$150,000.00",Finance & Investments,Nelson Peltz,80,United States,Bedford,Investments,Finance & Investments,United States,Trian Fund Management,D,M,1942-06-01,Founder,New York,Northeast
+1905,"$150,000.00",Technology,Bharat Desai,70,United States,Fisher Island,IT consulting,Technology,United States,Syntel,E,M,1952-11-20,Chairman and Co-founder,Florida,South
+1905,"$150,000.00",Healthcare,Jeff Tangney,50,United States,Palo Alto,Healthcare IT,Healthcare,United States,Doximity,D,M,1972-08-09,CEO,California,West
+2020,"$140,000.00",Finance & Investments,J. Christopher Flowers,65,United States,Palm Beach,Investments,Finance & Investments,United States,J.C. Flowers & Co. LLC,U,M,1957-10-27,Founder and Managing Director,Florida,South
+2020,"$140,000.00",Technology,Drew Houston,40,United States,Austin,Cloud storage service,Technology,United States,Dropbox,D,M,1983-03-04,CEO,Texas,South
+2020,"$140,000.00",Healthcare,David Paul,56,United States,Audubon,Medical devices,Healthcare,United States,Globus Medical,D,M,1966-12-25,Founder and Executive Chairman,Pennsylvania,Northeast
+2133,"$130,000.00",Technology,Stewart Butterfield,50,United States,Aspen,Messaging software,Technology,Canada,Slack,D,M,1973-03-21,Cofounder and CEO,Colorado,West
+2133,"$130,000.00",Technology,Alexander Karp,55,United States,Palo Alto,Software firm,Technology,United States,Palantir Technologies,U,M,1967-10-01,Cofounder and CEO,California,West
+2133,"$130,000.00",Healthcare,Joe Kiani,58,United States,Irvine,Medical devices,Healthcare,United States,Masimo,N,M,1964-09-16,Chairman and CEO,California,West
+2133,"$130,000.00",Finance & Investments,Seth Klarman,65,United States,Chestnut Hill,Investments,Finance & Investments,United States,Baupost Group,D,M,1957-05-01,Investor,Massachusetts,Northeast
+2133,"$130,000.00",Technology,Michael Krasny,69,United States,Highland Park,Retail,Technology,United States,Sawdust Investment Management Corp.,E,M,1953-08-08,Investor,Illinois,Midwest
+2259,"$120,000.00",Technology,Frederic Luddy,68,United States,San Diego,Software,Technology,United States,ServiceNow,D,M,1954-11-24,Founder and Chief Product Officer,California,West
+2259,"$120,000.00",Technology,Mark Pincus,57,United States,San Francisco,Online games,Technology,United States,Zynga Inc,D,M,1966-02-13,Chairman,California,West
+2259,"$120,000.00",Technology,Orion Hindawi,43,United States,Seattle,Software,Technology,United States,Tanium,D,M,1980-01-10,CEO,Washington,West
+2259,"$120,000.00",Fashion & Retail,Richard Hayne,75,United States,Philadelphia,Urban Outfitters,Fashion & Retail,United States,Urban Outfitters Inc.,E,M,1947-09-01,"Chairman, President & Chief Executive Officer",Pennsylvania,Northeast
+2405,"$110,000.00",Technology,David Hindawi,78,United States,Seattle,Software,Technology,United States,Tanium,D,M,1944-12-08,Executive Chairman,Washington,West
+2405,"$110,000.00",Fashion & Retail,Kevin Plank,50,United States,Lutherville-Timonium,Under Armour,Fashion & Retail,United States,Under Armour,D,M,1972-08-13,Chairman and CEO,Maryland,South
+2405,"$110,000.00",Sports,Tiger Woods,47,United States,Jupiter Island,Golf,Sports,United States,PGA,N,M,1975-12-30,Athlete,Florida,South
+2405,"$110,000.00",Fashion & Retail,Sara Blakely,52,United States,Atlanta,Spanx,Fashion & Retail,United States,Spanx,E,F,1971-02-27,Founder,Georgia,South
+2405,"$110,000.00",Finance & Investments,Lloyd Blankfein,68,United States,New York,Banking,Finance & Investments,United States,Goldman Sachs Group,E,M,1954-09-20,CEO,New York,Northeast
+2405,"$110,000.00",Technology,Ryan Breslow,28,United States,Miami,E-commerce software,Technology,United States,Bolt,D,M,1994-05-20,Cofounder,Florida,South
+2405,"$110,000.00",Technology,Weili Dai,61,United States,Las Vegas,Semiconductors,Technology,United States,Marvell Technology Group Ltd.,D,F,1961-09-14,Cofounder-President,Nevada,West
+2405,"$110,000.00",Fashion & Retail,Robert Fisher,69,United States,San Francisco,Gap,Fashion & Retail,United States,Gap Inc.,D,M,1953-08-01,Chairman of the Board,California,West
+2540,"$100,000.00",Fashion & Retail,William Fisher,66,United States,San Francisco,Gap,Fashion & Retail,United States,Gap Inc.,D,M,1957-04-01,Director,California,West
+2540,"$100,000.00",Sports,LeBron James,38,United States,Los Angeles,Basketball,Sports,United States,NBA,N,M,1984-12-30,Athlete,California,West
+2540,"$100,000.00",Technology,Apoorva Mehta,36,United States,San Francisco,Grocery delivery service,Technology,Canada,Instacart,D,M,1986-07-19,Founder,California,West
+2540,"$100,000.00",Media & Entertainment,Tyler Perry,53,United States,Atlanta,"Movies, television",Media & Entertainment,United States,Television,E,M,1969-09-14,Director,Georgia,South
