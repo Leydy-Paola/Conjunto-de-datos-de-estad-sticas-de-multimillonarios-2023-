@@ -1,1 +1,2 @@
-# Conjunto de datos de estadísticas de multimillonarios (2023)
+# Análisis de Multimillonarios del Mundo 2023
+Este proyecto se centra en analizar exhaustivamente las estadísticas de multimillonarios de todo el mundo. Utilizando un conjunto de datos detallado que abarca desde el patrimonio neto y la industria hasta la demografía y la fuente de la riqueza, nos proporciona una visión profunda sobre la distribución global de la riqueza. permitiendonos explorar las tendencias demográficas, los sectores comerciales dominantes y los factores que contribuyen al éxito de estos individuos, ofreciendo una comprensión holística de la élite financiera mundial.
