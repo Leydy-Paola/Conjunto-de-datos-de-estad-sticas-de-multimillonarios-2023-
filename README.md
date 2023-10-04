@@ -1,2 +1,2 @@
 # Conjunto de datos de estadísticas de multimillonarios (2023)
-Este repositorio contiene la información de la presentación del dataset, los scripts de Python y el archivo del proyecto en formato .pbix.
+Este repositorio contiene la información de la presentación del dataset, los scripts de Python y el archivo del proyecto en formato .pbix., además contiene estadísticas sobre los multimillonarios del mundo, incluida información sobre sus negocios, industrias y datos personales. Proporciona información sobre la distribución de la riqueza, los sectores comerciales y la demografía de los multimillonarios en todo el mundo.
