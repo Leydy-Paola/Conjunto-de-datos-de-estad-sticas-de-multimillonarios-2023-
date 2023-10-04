@@ -1,6 +1,6 @@
 # Análisis de Multimillonarios del Mundo 2023
 
-Adéntrese en el opulento mundo de los multimillonarios con nuestro completo conjunto de datos. Descubra los intrincados detalles de su riqueza, desde industrias y fuentes hasta demografía y ubicaciones geográficas. Explore el fascinante reino de las estadísticas de multimillonarios y descubra información sobre la élite que ha alcanzado la cima del éxito.
+Adéntrese en el opulento mundo de los multimillonarios con nuestro completo conjunto de datos. Descubra los intrincados detalles de su riqueza, desde industrias y fuentes hasta demografía y ubicaciones geográficas. Explore el fascinante reino de las estadísticas de multimillonarios y descubra información sobre la élite que ha alcanzado la cima del éxito.<br>
 
 ![Logo de mi proyecto](https://github.com/Leydy-Paola/Proyecto-Final-Analisis-de-datos/blob/main/ricos-se-sienten-pobres.webp)
 
@@ -10,8 +10,8 @@ Adéntrese en el opulento mundo de los multimillonarios con nuestro completo con
 Bienvenidos a esta exploración detallada sobre estadísticas de multimillonarios de Estados Unidos, aquí podrás encontrar el enlace para la presentación del proyecto y la presentación de PowerBi para un mejor análisis, visualización e interpretación del mismo, en donde podremos desentrañar las complejidades de las tendencias demográficas y las fuentes de riqueza que dan forma a nuestra realidad financiera, en el año 2023, a través de visualizaciones de PowerBi.
 
 ![Imagen de descripción](https://github.com/Leydy-Paola/Proyecto-Final-Analisis-de-datos/blob/main/presentaci%C3%B3n.png)
-[Presentación de mi proyecto](https://docs.google.com/presentation/d/1Bwo15CwWTHgl91az0Tcb1sI3ICQAOOyG/edit?usp=sharing&ouid=115624102365699431569&rtpof=true&sd=true)
-[Presentación de PowerBi](https://github.com/Leydy-Paola/Proyecto-Final-Analisis-de-datos/blob/main/An%C3%A1lisis%20power%20Bi%2C%20proyecto%20final%20Leydy%20Paola%20Cer%C3%B3n%20L%C3%B3pez.pbix)
+[Presentación de mi proyecto](https://docs.google.com/presentation/d/1Bwo15CwWTHgl91az0Tcb1sI3ICQAOOyG/edit?usp=sharing&ouid=115624102365699431569&rtpof=true&sd=true)<br>
+[Presentación de PowerBi](https://app.powerbi.com/view?r=eyJrIjoiOTcyNzY2MjktNjQ1OS00YzliLTk4MDMtNTQzYmVhZTAzZTdmIiwidCI6IjE4YzQ0ODRlLWFmYjctNGFjYS04NDM1LWZmYzQwOGY0YjE3NiJ9)
 
 ## Descripción del proyecto.
 
