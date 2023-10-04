@@ -2,15 +2,14 @@
 
 Adéntrese en el opulento mundo de los multimillonarios con nuestro completo conjunto de datos. Descubra los intrincados detalles de su riqueza, desde industrias y fuentes hasta demografía y ubicaciones geográficas. Explore el fascinante reino de las estadísticas de multimillonarios y descubra información sobre la élite que ha alcanzado la cima del éxito.
 
-
-![Logo de Mi Proyecto](https://github.com/Leydy-Paola/Proyecto-Final-Analisis-de-datos/blob/main/ricos-se-sienten-pobres.webp)
+(https://github.com/Leydy-Paola/Proyecto-Final-Analisis-de-datos/blob/main/ricos-se-sienten-pobres.webp)
 
 
 ## Presentación del proyecto 
 
 Bienvenidos a esta exploración detallada sobre estadísticas de multimillonarios de Estados Unidos, aquí podrás encontrar el enlace para la presentación del proyecto para un mejor análisis e interpretación del mismo, en donde podremos desentrañar las complejidades de las tendencias demográficas y las fuentes de riqueza que dan forma a nuestra realidad financiera, en el año 2023, a través de visualizaciones de PowerBi.
 
-![Presentación de mi proyecto](https://docs.google.com/presentation/d/1Bwo15CwWTHgl91az0Tcb1sI3ICQAOOyG/edit?usp=sharing&ouid=115624102365699431569&rtpof=true&sd=true)
+[Presentación de mi proyecto](https://docs.google.com/presentation/d/1Bwo15CwWTHgl91az0Tcb1sI3ICQAOOyG/edit?usp=sharing&ouid=115624102365699431569&rtpof=true&sd=true)
 
 ## Descripción del proyecto.
 
