@@ -2,7 +2,7 @@
 
 Adéntrese en el opulento mundo de los multimillonarios con nuestro completo conjunto de datos. Descubra los intrincados detalles de su riqueza, desde industrias y fuentes hasta demografía y ubicaciones geográficas. Explore el fascinante reino de las estadísticas de multimillonarios y descubra información sobre la élite que ha alcanzado la cima del éxito.
 
-(https://github.com/Leydy-Paola/Proyecto-Final-Analisis-de-datos/blob/main/ricos-se-sienten-pobres.webp)
+![Logo de mi proyecto](https://github.com/Leydy-Paola/Proyecto-Final-Analisis-de-datos/blob/main/ricos-se-sienten-pobres.webp)
 
 
 ## Presentación del proyecto 
