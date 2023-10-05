@@ -103,7 +103,7 @@ En esta parte del proyecto con Pandas Profiling ya se analizó automáticamente 
 
 Este es el enlace para su observación:<br>
 
-[Informe con Pandas Profiling](file:///C:/Users/leydy.ceron/Downloads/Billionaires%20Statistics%20Dataset.html)
+[Informe con Pandas Profiling](/content/Billionaires Statistics Dataset.html)
 
 **Visualizaciones con Power BI Desktop**
 
