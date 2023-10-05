@@ -54,47 +54,51 @@ En esta parte como miramos anteriormente se hizo uso de las siguientes herramien
 1-Google Colab
 2-Python
 3-Librerias de Pandas y  Pandas Profiling; <BR>
-      **Pandas:**<BR>
-      Pandas es una biblioteca de Python que proporciona estructuras de datos flexibles y herramientas para el análisis de datos. Las principales estructuras de datos en          Pandas son las Series (para datos unidimensionales) y los DataFrames (para datos bidimensionales, similares a una tabla de base de datos o una hoja de cálculo).<BR>
 
-      ¿Para qué sirve Pandas?<br>
+**Pandas:**
+Pandas es una biblioteca de Python que proporciona estructuras de datos flexibles y herramientas para el análisis de datos. Las principales estructuras de datos en        Pandas son las Series (para datos unidimensionales) y los DataFrames (para datos bidimensionales, similares a una tabla de base de datos o una hoja de cálculo).<BR>
 
-      Manipulación de Datos: Pandas permite cargar datos desde diversas fuentes, como archivos CSV, bases de datos SQL y Excel. Puedes limpiar, transformar y manipular            datos de manera eficiente.<br>
+     ¿Para qué sirve Pandas?<br>
+
+      Manipulación de Datos: Pandas permite cargar datos desde diversas fuentes, como archivos CSV, bases de datos SQL y Excel. Puedes limpiar, transformar y manipular datos de manera eficiente.<br>
       
-      Análisis Exploratorio de Datos (EDA): Es fundamental para realizar estadísticas descriptivas y operaciones de resumen en datos.<br>
+      Análisis Exploratorio de Datos (EDA): Es fundamental para realizar estadísticas descriptivas y operaciones de resumen en datos.<br> 
       Preparación de Datos: Pandas es ampliamente utilizado para preparar datos antes de alimentarlos a modelos de aprendizaje automático.<br>
      
-      **Pandas Profiling**<BR>
+**Pandas Profiling**
       
-      Pandas Profiling es una extensión de Pandas que genera un informe detallado sobre un DataFrame de Pandas. Este informe incluye estadísticas descriptivas,                    visualizaciones y análisis automáticos de los datos.<br>
+      Pandas Profiling es una extensión de Pandas que genera un informe detallado sobre un DataFrame de Pandas. Este informe incluye estadísticas descriptivas,visualizaciones y análisis automáticos de los datos.<br>
       
       ¿Para qué sirve Pandas Profiling?<br>
       
-      Análisis Exploratorio de Datos (EDA) Rápido: Pandas Profiling permite realizar un análisis exploratorio de datos detallado con una sola línea de código, lo que es           especialmente útil para conjuntos de datos grandes.
+      Análisis Exploratorio de Datos (EDA) Rápido: Pandas Profiling permite realizar un análisis exploratorio de datos detallado con una sola línea de código, lo que es especialmente útil para conjuntos de datos grandes.
       
       Identificación de Problemas: Puede detectar automáticamente problemas como valores nulos, correlaciones y distribuciones de datos inusuales.
-      Generación de Informes Rápidos: Genera un informe en formato HTML que se puede compartir fácilmente con otros, lo que facilita la comunicación de resultados de              análisis.
+      Generación de Informes Rápidos: Genera un informe en formato HTML que se puede compartir fácilmente con otros, lo que facilita la comunicación de resultados de análisis.
 
 4-Power BI Desktop 
 5-GitHub.
 
 **Proceso de Análisis de Datos**
-  Recopilación de Datos:
 
-  Para la parte de recopilación de datos con kaggle y limpieza y preparación de datos con google, utilicé Python junto con la biblioteca Pandas para llevar a cabo la exploración y limpieza de los datos de mi conjunto de datos de multillonarios de Estados Unidos del 2023 obtenido de Kaggle. Iniciando por cargar los datos, la exploración incial, y luego con la limpieza de datos,
+Recopilación de Datos:<br>
 
-  Luego utilicé la biblioteca Pandas Profiling para realizar un Análisis Exploratorio de Datos detallado del conjunto de datos de millonarios. A continuación se explica cómo generé el informe y lo exporté como un archivo HTML:
+  Para la parte de recopilación de datos con kaggle y limpieza y preparación de datos con google, utilicé Python junto con la biblioteca Pandas para llevar a cabo la exploración y limpieza de los datos de mi conjunto de datos de multillonarios de Estados Unidos del 2023 obtenido de Kaggle. Iniciando por cargar los datos, la exploración incial, y luego con la limpieza de datos.<br>
 
-Lance en primera instancia los siguientes comandos; 
+  Luego utilicé la biblioteca Pandas Profiling para realizar un Análisis Exploratorio de Datos detallado del conjunto de datos de millonarios. A continuación se explica cómo generé el informe y lo exporté como un archivo HTML:<br>
 
-   * from pandas_profiling import ProfileReport
-   * perfil_millonarios = ProfileReport(datos)
+Lance en primera instancia los siguientes comandos; <br>
+
+        * from pandas_profiling import ProfileReport
+        * perfil_millonarios = ProfileReport(datos)
      
-Que me permitian importar la libreria y crear el informe exploratorio y luego para generar un archivo HTML con el informe
-   * perfil_millonarios.to_file(output_file="Informe_Millonarios.html")
+Que me permitian importar la libreria y crear el informe exploratorio y luego para generar un archivo HTML con el informe <br>
+
+        * perfil_millonarios.to_file(output_file="Informe_Millonarios.html")
      
 En este paso, Pandas Profiling analizó automáticamente las estadísticas descriptivas, identificó valores nulos, proporcionó gráficos para las distribuciones y relaciones de datos, y mucho más. Exporté el informe como un archivo HTML para futuras referencias y para compartir los resultados con otros colaboradores.
-
+<br>
+<br>
 **Visualizaciones con Power BI Desktop**
 
 Descripción de las visualizaciones que creaste en Power BI Desktop utilizando los datos limpios.
