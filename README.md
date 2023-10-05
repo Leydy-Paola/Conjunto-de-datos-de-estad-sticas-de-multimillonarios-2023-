@@ -58,25 +58,23 @@ En esta parte como miramos anteriormente se hizo uso de las siguientes herramien
 **Pandas:**
 Pandas es una biblioteca de Python que proporciona estructuras de datos flexibles y herramientas para el análisis de datos. Las principales estructuras de datos en        Pandas son las Series (para datos unidimensionales) y los DataFrames (para datos bidimensionales, similares a una tabla de base de datos o una hoja de cálculo).<BR>
 
-     ¿Para qué sirve Pandas?<br>
+¿Para qué sirve Pandas?<br>
 
-      Manipulación de Datos: Pandas permite cargar datos desde diversas fuentes, como archivos CSV, bases de datos SQL y Excel. Puedes limpiar, transformar y manipular datos de manera eficiente.<br>
-      
-      Análisis Exploratorio de Datos (EDA): Es fundamental para realizar estadísticas descriptivas y operaciones de resumen en datos.<br> 
-      Preparación de Datos: Pandas es ampliamente utilizado para preparar datos antes de alimentarlos a modelos de aprendizaje automático.<br>
+Manipulación de Datos: Pandas permite cargar datos desde diversas fuentes, como archivos CSV, bases de datos SQL y Excel. Puedes limpiar, transformar y manipular datos de manera eficiente.<br>
+Análisis Exploratorio de Datos (EDA): Es fundamental para realizar estadísticas descriptivas y operaciones de resumen en datos.<br> 
+Preparación de Datos: Pandas es ampliamente utilizado para preparar datos antes de alimentarlos a modelos de aprendizaje automático.
      
 **Pandas Profiling**
       
-      Pandas Profiling es una extensión de Pandas que genera un informe detallado sobre un DataFrame de Pandas. Este informe incluye estadísticas descriptivas,visualizaciones y análisis automáticos de los datos.<br>
+Pandas Profiling es una extensión de Pandas que genera un informe detallado sobre un DataFrame de Pandas. Este informe incluye estadísticas descriptivas,visualizaciones y análisis automáticos de los datos.<br>
       
-      ¿Para qué sirve Pandas Profiling?<br>
+¿Para qué sirve Pandas Profiling?<br>
       
-      Análisis Exploratorio de Datos (EDA) Rápido: Pandas Profiling permite realizar un análisis exploratorio de datos detallado con una sola línea de código, lo que es especialmente útil para conjuntos de datos grandes.
-      
-      Identificación de Problemas: Puede detectar automáticamente problemas como valores nulos, correlaciones y distribuciones de datos inusuales.
-      Generación de Informes Rápidos: Genera un informe en formato HTML que se puede compartir fácilmente con otros, lo que facilita la comunicación de resultados de análisis.
+Análisis Exploratorio de Datos (EDA) Rápido: Pandas Profiling permite realizar un análisis exploratorio de datos detallado con una sola línea de código, lo que es especialmente útil para conjuntos de datos grandes.<br>
+Identificación de Problemas: Puede detectar automáticamente problemas como valores nulos, correlaciones y distribuciones de datos inusuales. <br>
+Generación de Informes Rápidos: Genera un informe en formato HTML que se puede compartir fácilmente con otros, lo que facilita la comunicación de resultados de análisis.<br>
 
-4-Power BI Desktop 
+4-Power BI Desktop <br>
 5-GitHub.
 
 **Proceso de Análisis de Datos**
@@ -97,8 +95,7 @@ Que me permitian importar la libreria y crear el informe exploratorio y luego pa
         * perfil_millonarios.to_file(output_file="Informe_Millonarios.html")
      
 En este paso, Pandas Profiling analizó automáticamente las estadísticas descriptivas, identificó valores nulos, proporcionó gráficos para las distribuciones y relaciones de datos, y mucho más. Exporté el informe como un archivo HTML para futuras referencias y para compartir los resultados con otros colaboradores.
-<br>
-<br>
+
 **Visualizaciones con Power BI Desktop**
 
 Descripción de las visualizaciones que creaste en Power BI Desktop utilizando los datos limpios.
