@@ -1,4 +1,4 @@
-# Análisis de Multimillonarios del Mundo 2023
+# Análisis de Multimillonarios del Estados Unidos 2023
 
 Adéntrese en el opulento mundo de los multimillonarios con nuestro completo conjunto de datos. Descubra los intrincados detalles de su riqueza, desde industrias y fuentes hasta demografía y ubicaciones geográficas. Explore el fascinante reino de las estadísticas de multimillonarios y descubra información sobre la élite que ha alcanzado la cima del éxito.<br>
 
@@ -48,30 +48,35 @@ En esta parte podrás encontrar el dataset elegido para el proyecto original, si
 
 ## Documentación del desarrollo del proyecto
 
-**1-Tecnologías Utilizadas**
+**1-Tecnologías Utilizadas**<br>
 En esta parte como miramos anteriormente se hizo uso de las siguientes herramientas:
 
 1-Google Colab<br>
 2-Python<br>
 3-Librerias de Pandas y  Pandas Profiling; <BR>
 
-**Pandas:**
+**Pandas:<br>**
+
 Pandas es una biblioteca de Python que proporciona estructuras de datos flexibles y herramientas para el análisis de datos. Las principales estructuras de datos en        Pandas son las Series (para datos unidimensionales) y los DataFrames (para datos bidimensionales, similares a una tabla de base de datos o una hoja de cálculo).<BR>
 
-¿Para qué sirve Pandas?<br>
+**¿Para qué sirve Pandas?<br>**
 
 Manipulación de Datos: Pandas permite cargar datos desde diversas fuentes, como archivos CSV, bases de datos SQL y Excel. Puedes limpiar, transformar y manipular datos de manera eficiente.<br>
+
 Análisis Exploratorio de Datos (EDA): Es fundamental para realizar estadísticas descriptivas y operaciones de resumen en datos.<br> 
+
 Preparación de Datos: Pandas es ampliamente utilizado para preparar datos antes de alimentarlos a modelos de aprendizaje automático.
      
 **Pandas Profiling**
       
 Pandas Profiling es una extensión de Pandas que genera un informe detallado sobre un DataFrame de Pandas. Este informe incluye estadísticas descriptivas,visualizaciones y análisis automáticos de los datos.<br>
       
-¿Para qué sirve Pandas Profiling?<br>
+**¿Para qué sirve Pandas Profiling?<br>**
       
 Análisis Exploratorio de Datos (EDA) Rápido: Pandas Profiling permite realizar un análisis exploratorio de datos detallado con una sola línea de código, lo que es especialmente útil para conjuntos de datos grandes.<br>
+
 Identificación de Problemas: Puede detectar automáticamente problemas como valores nulos, correlaciones y distribuciones de datos inusuales. <br>
+
 Generación de Informes Rápidos: Genera un informe en formato HTML que se puede compartir fácilmente con otros, lo que facilita la comunicación de resultados de análisis.<br>
 
 4-Power BI Desktop <br>
@@ -79,7 +84,7 @@ Generación de Informes Rápidos: Genera un informe en formato HTML que se puede
 
 **Proceso de Análisis de Datos**
 
-Recopilación de Datos:<br>
+**Recopilación de Datos:<br>**
 
   Para la parte de recopilación de datos con kaggle y limpieza y preparación de datos con google, utilicé Python junto con la biblioteca Pandas para llevar a cabo la exploración y limpieza de los datos de mi conjunto de datos de multillonarios de Estados Unidos del 2023 obtenido de Kaggle. Iniciando por cargar los datos, la exploración incial, y luego con la limpieza de datos.<br>
 
