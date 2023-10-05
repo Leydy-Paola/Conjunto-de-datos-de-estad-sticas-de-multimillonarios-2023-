@@ -51,8 +51,8 @@ En esta parte podrás encontrar el dataset elegido para el proyecto original, si
 **1-Tecnologías Utilizadas**
 En esta parte como miramos anteriormente se hizo uso de las siguientes herramientas:
 
-1-Google Colab
-2-Python
+1-Google Colab<br>
+2-Python<br>
 3-Librerias de Pandas y  Pandas Profiling; <BR>
 
 **Pandas:**
