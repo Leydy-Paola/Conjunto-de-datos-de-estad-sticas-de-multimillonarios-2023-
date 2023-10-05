@@ -101,9 +101,6 @@ Que me permitian importar la libreria y crear el informe exploratorio y luego pa
      
 En esta parte del proyecto con Pandas Profiling ya se analizó automáticamente las estadísticas descriptivas, identificando valores nulos, y proporcionando gráficos para las distribuciones y relaciones de datos, y mucho más. Y finalmente se exporta el informe como un archivo HTML para futuras referencias y para compartir los resultados con otros colaboradores en el cual también se pueda interactuar.<br>
 
-Este es el enlace para su observación:<br>
-
-[Informe con Pandas Profiling](Billionaires Statistics Dataset.html)
 
 **Visualizaciones con Power BI Desktop**
 
