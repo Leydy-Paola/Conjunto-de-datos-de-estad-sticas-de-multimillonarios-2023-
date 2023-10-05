@@ -33,16 +33,86 @@ Y por último encontramos a esta plataforma **GitHub** que es una plataforma de 
 
 ![Recursos utilizados](https://github.com/Leydy-Paola/Proyecto-Final-Analisis-de-datos/blob/main/Recursos%20utilizados.png)
 
-Aquí podrás encontrar los enlaces los archivos para visualizar los scripts de Python, que dentro e este mismo, podrás encontrar todos los queries realizados con su explicación, además de los enlaces de acceso a las plataformas, para su posterioir descarga y uso, en caso de requerirlo. 
+Aquí podrás encontrar los enlaces los archivos para visualizar los scripts de Python, y dentro de este mismo, podrás encontrar todos los queries realizados con su explicación, además de los enlaces de acceso a las plataformas, para su posterioir descarga y uso, en caso de requerirlo. 
 
 
 [scripts de Python y Queries](https://github.com/Leydy-Paola/Proyecto-Final-Analisis-de-datos/blob/main/Scripts_de_python_(google_colab)_Leydy_Paola_Cer%C3%B3n_L%C3%B3pez.ipynb)<br>
 [Página princial de Kaggle](https://www.kaggle.com/)<br>
-[Página para la descarga de powerBi destok](https://www.microsoft.com/store/productid/9NTXR16HNW1T?ocid=pdpshare)
+[Página para la descarga de powerBi destok](https://www.microsoft.com/store/productid/9NTXR16HNW1T?ocid=pdpshare)<br>
+[Inicio de sección en google colab](https://colab.research.google.com/)<br>
 
 ## Enlace dataset seleccionado(kaggle)
 En esta parte podrás encontrar el dataset elegido para el proyecto original, sin modificaciones, en caso de requerirlo para su uso personal<br>
 
-[Datset original](https://www.kaggle.com/datasets/nelgiriyewithana/billionaires-statistics-dataset)
-## Documentación del desarrollo de su proyecto (tecnologías utilizadas y cualquier información relevante), aprendizajes obtenidos y futuras oportunidades de investigación.
+[Dataset original](https://www.kaggle.com/datasets/nelgiriyewithana/billionaires-statistics-dataset)
 
+## Documentación del desarrollo del proyecto
+
+**1-Tecnologías Utilizadas**
+En esta parte como miramos anteriormente se hizo uso de las siguientes herramientas:
+
+1-Google Colab
+2-Python
+3-Librerias de Pandas y  Pandas Profiling; <BR>
+      **Pandas:**<BR>
+      Pandas es una biblioteca de Python que proporciona estructuras de datos flexibles y herramientas para el análisis de datos. Las principales estructuras de datos en          Pandas son las Series (para datos unidimensionales) y los DataFrames (para datos bidimensionales, similares a una tabla de base de datos o una hoja de cálculo).<BR>
+
+      ¿Para qué sirve Pandas?<br>
+
+      Manipulación de Datos: Pandas permite cargar datos desde diversas fuentes, como archivos CSV, bases de datos SQL y Excel. Puedes limpiar, transformar y manipular            datos de manera eficiente.<br>
+      
+      Análisis Exploratorio de Datos (EDA): Es fundamental para realizar estadísticas descriptivas y operaciones de resumen en datos.<br>
+      Preparación de Datos: Pandas es ampliamente utilizado para preparar datos antes de alimentarlos a modelos de aprendizaje automático.<br>
+     
+      **Pandas Profiling**<BR>
+      
+      Pandas Profiling es una extensión de Pandas que genera un informe detallado sobre un DataFrame de Pandas. Este informe incluye estadísticas descriptivas,                    visualizaciones y análisis automáticos de los datos.<br>
+      
+      ¿Para qué sirve Pandas Profiling?<br>
+      
+      Análisis Exploratorio de Datos (EDA) Rápido: Pandas Profiling permite realizar un análisis exploratorio de datos detallado con una sola línea de código, lo que es           especialmente útil para conjuntos de datos grandes.
+      
+      Identificación de Problemas: Puede detectar automáticamente problemas como valores nulos, correlaciones y distribuciones de datos inusuales.
+      Generación de Informes Rápidos: Genera un informe en formato HTML que se puede compartir fácilmente con otros, lo que facilita la comunicación de resultados de              análisis.
+
+4-Power BI Desktop 
+5-GitHub.
+
+**Proceso de Análisis de Datos**
+  Recopilación de Datos:
+
+  Para la parte de recopilación de datos con kaggle y limpieza y preparación de datos con google, utilicé Python junto con la biblioteca Pandas para llevar a cabo la exploración y limpieza de los datos de mi conjunto de datos de multillonarios de Estados Unidos del 2023 obtenido de Kaggle. Iniciando por cargar los datos, la exploración incial, y luego con la limpieza de datos,
+
+  Luego utilicé la biblioteca Pandas Profiling para realizar un Análisis Exploratorio de Datos detallado del conjunto de datos de millonarios. A continuación se explica cómo generé el informe y lo exporté como un archivo HTML:
+
+Lance en primera instancia los siguientes comandos; 
+
+   * from pandas_profiling import ProfileReport
+   * perfil_millonarios = ProfileReport(datos)
+     
+Que me permitian importar la libreria y crear el informe exploratorio y luego para generar un archivo HTML con el informe
+   * perfil_millonarios.to_file(output_file="Informe_Millonarios.html")
+     
+En este paso, Pandas Profiling analizó automáticamente las estadísticas descriptivas, identificó valores nulos, proporcionó gráficos para las distribuciones y relaciones de datos, y mucho más. Exporté el informe como un archivo HTML para futuras referencias y para compartir los resultados con otros colaboradores.
+
+**Visualizaciones con Power BI Desktop**
+
+Descripción de las visualizaciones que creaste en Power BI Desktop utilizando los datos limpios.
+
+4. Resultados y Conclusiones
+Principales hallazgos y conclusiones del análisis de datos.
+Gráficos y visualizaciones clave que resumen los resultados.
+Lecciones aprendidas y desafíos enfrentados durante el proceso.
+
+5. Futuras Oportunidades y Mejoras
+Áreas que podrían ser exploradas en el futuro.
+Mejoras posibles en el análisis de datos y visualizaciones.
+
+7. Enlace al Repositorio de GitHub
+Proporciona el enlace al repositorio de GitHub donde se encuentra el código fuente, los archivos CSV y la documentación del proyecto.
+
+9. Conclusiones Finales
+Resumen general del proyecto y su importancia.
+Agradecimientos a colaboradores, si los hubiera.
+Información de contacto para futuras consultas.
+Recuerda personalizar y expandir cada sección según los detalles específicos de tu proyecto y los hallazgos que hayas descubierto durante el análisis. ¡Buena suerte con tu documentación! Si tienes alguna pregunta específica sobre alguna parte del proceso, no dudes en preguntar.
