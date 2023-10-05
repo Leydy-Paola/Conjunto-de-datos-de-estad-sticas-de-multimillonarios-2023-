@@ -1,4 +1,4 @@
-# Análisis de Multimillonarios del Estados Unidos 2023
+# Análisis de Multimillonarios de Estados Unidos 2023
 
 Adéntrese en el opulento mundo de los multimillonarios con nuestro completo conjunto de datos. Descubra los intrincados detalles de su riqueza, desde industrias y fuentes hasta demografía y ubicaciones geográficas. Explore el fascinante reino de las estadísticas de multimillonarios y descubra información sobre la élite que ha alcanzado la cima del éxito.<br>
 
