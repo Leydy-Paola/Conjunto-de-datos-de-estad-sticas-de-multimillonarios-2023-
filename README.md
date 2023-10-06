@@ -1,6 +1,5 @@
 # Análisis de Multimillonarios de Estados Unidos 2023
 
-![metodología](https://github.com/Leydy-Paola/Proyecto-Final-Analisis-de-datos/blob/main/Infograf%C3%ADa%20metodolog%C3%ADa%20design%20thinking%20fases%20colorido%20pasteles.png)
 Adéntrese en el opulento mundo de los multimillonarios con nuestro completo conjunto de datos. Descubra los intrincados detalles de su riqueza, desde industrias y fuentes hasta demografía y ubicaciones geográficas. Explore el fascinante reino de las estadísticas de multimillonarios y descubra información sobre la élite que ha alcanzado la cima del éxito.<br>
 
 ![Logo de mi proyecto](https://github.com/Leydy-Paola/Proyecto-Final-Analisis-de-datos/blob/main/ricos-se-sienten-pobres.webp)
@@ -105,6 +104,12 @@ En esta parte del proyecto con Pandas Profiling ya se analizó automáticamente 
 Enlace del perfilamiento de datos;<br>
 
 [Visualización con Pandas Profiling](https://leydy-paola.github.io/Proyecto-Final-Analisis-de-datos/)
+
+**Metodología aplicada Design Thinking**
+
+En esta parte encontraremos la metodología que aplicamos para implementar todo el poyecto con base a las problematicas encontradas y el analisis explicado en cada una de las siguientes fases;<br>
+
+![metodología](https://github.com/Leydy-Paola/Proyecto-Final-Analisis-de-datos/blob/main/Infograf%C3%ADa%20metodolog%C3%ADa%20design%20thinking%20fases%20colorido%20pasteles.png)
 
 **Visualizaciones con Power BI Desktop**
 
