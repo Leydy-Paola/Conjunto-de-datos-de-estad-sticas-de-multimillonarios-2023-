@@ -113,8 +113,6 @@ En esta parte encontraremos la metodología que aplicamos para implementar todo 
 
 **Visualizaciones con Power BI Desktop**
 
-desing thinkhing 
-
 Descripción de las visualizaciones que creaste en Power BI Desktop utilizando los datos limpios.
 
 4. Resultados y Conclusiones
