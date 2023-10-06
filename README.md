@@ -107,6 +107,8 @@ Enlace del perfilamiento de datos;<br>
 
 **Visualizaciones con Power BI Desktop**
 
+desing thinkhing 
+
 Descripción de las visualizaciones que creaste en Power BI Desktop utilizando los datos limpios.
 
 4. Resultados y Conclusiones
@@ -118,11 +120,8 @@ Lecciones aprendidas y desafíos enfrentados durante el proceso.
 Áreas que podrían ser exploradas en el futuro.
 Mejoras posibles en el análisis de datos y visualizaciones.
 
-7. Enlace al Repositorio de GitHub
-Proporciona el enlace al repositorio de GitHub donde se encuentra el código fuente, los archivos CSV y la documentación del proyecto.
-
 9. Conclusiones Finales
 Resumen general del proyecto y su importancia.
 Agradecimientos a colaboradores, si los hubiera.
 Información de contacto para futuras consultas.
-Recuerda personalizar y expandir cada sección según los detalles específicos de tu proyecto y los hallazgos que hayas descubierto durante el análisis. ¡Buena suerte con tu documentación! Si tienes alguna pregunta específica sobre alguna parte del proceso, no dudes en preguntar.
+
