@@ -82,9 +82,7 @@ Pandas Profiling es una extensión de Pandas que genera un informe detallado sob
 **4-Power BI Desktop <br>**
 **5-GitHub.**
 
-**Proceso de Análisis de Datos**
-
-**Recopilación de Datos:<br>**
+## Recopilación de Datos:
 
   Para la parte de recopilación de datos con kaggle y limpieza y preparación de datos con google, utilicé Python junto con la biblioteca Pandas para llevar a cabo la exploración y limpieza de los datos de mi conjunto de datos de multillonarios de Estados Unidos del 2023 obtenido de Kaggle. Iniciando por cargar los datos, la exploración incial, y luego con la limpieza de datos.<br>
 
@@ -105,13 +103,13 @@ Enlace del perfilamiento de datos;<br>
 
 [Visualización con Pandas Profiling](https://leydy-paola.github.io/Proyecto-Final-Analisis-de-datos/)
 
-**Metodología aplicada Design Thinking**
+## Metodología aplicada Design Thinking
 
 En esta parte encontraremos la metodología que aplicamos para implementar todo el poyecto con base a las problematicas encontradas y el analisis explicado en cada una de las siguientes fases;<br>
 
 ![metodología](https://github.com/Leydy-Paola/Proyecto-Final-Analisis-de-datos/blob/main/Infograf%C3%ADa%20metodolog%C3%ADa%20design%20thinking%20fases%20colorido%20pasteles.png)
 
-**Visualizaciones con Power BI Desktop**
+## Visualizaciones con Power BI Desktop
 
 En las visualizaciones de PowerBi, podemos encontrar, diferentes tipos de visualizaciones, en la primera hoja de visualizaciones, encontramos las graficas de columnas agrupadas, en las cuales nos permite visualizar toda la información relacionada a las organizaciones, dividivas por ciudad y rangos, además encontramos segmentaciones de datos por categorias y regiones,y también un mapa que nos permite ubicarnos geograficamente en la ciudad que desamos de acuerdo a las regiones, permitiendonos visualizar de manera práctica los datos mencionados.<br>
 
@@ -127,7 +125,7 @@ Ahora pasando a la página número tres encontramos un análisis por millonarios
 
 ![página3](https://github.com/Leydy-Paola/Proyecto-Final-Analisis-de-datos/blob/main/Captura%20de%20pantalla%202023-10-06%20201038.png)<br>
 
-**Lecciones aprendidas y desafíos enfrentados durante el proceso**
+## Lecciones aprendidas y desafíos enfrentados durante el proceso
 
 Durante el proceso de creación y estructuración de este proyecto tuve varios inconvenientes al enfrentarme a una base de datos grande de multimillonarios de Estados Unidos ya que puede resultar abrumador. Uno de los principales inconvenientes que enfrente al trabajar con esta enorme cantidad de datos es la dificultad para asegurar la precisión y la integridad de la información. Al tratarse de una gran cantidad de datos, es complicado verificar la autenticidad de cada entrada y confirmar que la información es actual y exacta.<br>
 
@@ -137,28 +135,28 @@ Además, trabajar con una base de datos tan grande también puede plantear probl
 
 En resumen, enfrentarse a una base de datos grande de multimillonarios de Estados Unidos en primera persona implica desafíos en términos de verificación de datos, consistencia, procesamiento y rendimiento, lo que puede complicar la tarea de realizar análisis precisos y significativos.<br>
 
-**Futuras Oportunidades y Mejoras:<br>**
+## Futuras Oportunidades y Mejoras:
 
 El análisis de datos y visualizaciones en una base de datos de multimillonarios podría beneficiarse de diversas innovaciones y enfoques futuros.Estos podrían ser algunas de las mejorar y oportunidads para este proyecto:<br>
 
-*1-Predicciones de Tendencias:<br>* 
+**1-Predicciones de Tendencias:<br>**
 	
 Utilizar algoritmos de machine learning para predecir tendencias en el crecimiento patrimonial de los multimillonarios basándose en datos históricos y factores económicos.<br>
 
-*2-Análisis de Sentimientos:<br>* 
+**2-Análisis de Sentimientos:<br>**
 
 Aplicar análisis de sentimientos en datos no estructurados para comprender las opiniones públicas sobre los multimillonarios y sus empresas, lo que podría proporcionar perspectivas valiosas.<br>
 
-*3-Integración de Datos Externos:<br>*
+**3-Integración de Datos Externos:<br>**
 
 Integrar datos de otras fuentes como informes económicos, datos demográficos y sociales para enriquecer el contexto de los multimillonarios y proporcionar análisis más holísticos.<br>
 
 Explorar estas áreas podría llevar a avances significativos en el análisis de datos y visualizaciones en el contexto de una base de datos de multimillonarios en 2023, proporcionando una comprensión más profunda y matizada de la distribución de la riqueza y su impacto en la sociedad.
 
-**Conclusiones Finales**
+## Conclusiones Finales
 
 Resumen general del proyecto y su importancia.
 Agradecimientos a colaboradores, si los hubiera.
 
-**Información de contacto**
+## Información de contacto
 
