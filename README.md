@@ -155,8 +155,12 @@ Explorar estas áreas podría llevar a avances significativos en el análisis de
 
 ## Conclusiones Finales
 
-Resumen general del proyecto y su importancia.
-Agradecimientos a colaboradores, si los hubiera.
+Para finalizar, el proyecto nos permitió explorar las tendencias demográficas y las fuentes de riqueza de los multimillonarios a nivel mundial representando un esfuerzo significativo para comprender la complejidad de la distribución global de la riqueza y los factores que contribuyen al éxito financiero, centrándose específicamente en los multimillonarios de Estados Unidos. Esta iniciativa no solo proporciona una visión detallada de la estructura demográfica de los multimillonarios y las industrias que impulsan su riqueza, sino que también destaca la importancia de analizar las dinámicas sociales, económicas y culturales que subyacen en esta disparidad económica.<br>
+
+Al explorar esta problemática, el proyecto arroja luz sobre cuestiones críticas relacionadas con la desigualdad y las oportunidades en diferentes regiones del mundo. Al comprender las tendencias y los patrones emergentes, se pueden identificar áreas de mejora en políticas públicas, educación y emprendimiento que podrían contribuir a una distribución más equitativa de la riqueza.<br>
+
+En última instancia, esta investigación no solo es relevante para los economistas y científicos sociales, sino también para los responsables políticos y líderes empresariales que buscan abordar los desafíos de la desigualdad económica. Al tener en cuenta las lecciones aprendidas de los datos recopilados, se pueden tomar decisiones más informadas y efectivas para fomentar un desarrollo económico más inclusivo y sostenible a nivel global.<br>
 
 ## Información de contacto
 
+![contacto](https://github.com/Leydy-Paola/Proyecto-Final-Analisis-de-datos/blob/main/Captura%20de%20pantalla%202023-10-06%20212128.png)
