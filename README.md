@@ -113,7 +113,19 @@ En esta parte encontraremos la metodología que aplicamos para implementar todo 
 
 **Visualizaciones con Power BI Desktop**
 
-Descripción de las visualizaciones que creaste en Power BI Desktop utilizando los datos limpios.
+En las visualizaciones de PowerBi, podemos encontrar, diferentes tipos de visualizaciones, en la primera hoja de visualizaciones, encontramos las graficas de columnas agrupadas, en las cuales nos permite visualizar toda la información relacionada a las organizaciones, dividivas por ciudad y rangos, además encontramos segmentaciones de datos por categorias y regiones,y también un mapa que nos permite ubicarnos geograficamente en la ciudad que desamos de acuerdo a las regiones, permitiendonos visualizar de manera práctica los datos mencionados.<br>
+
+![página1](https://github.com/Leydy-Paola/Proyecto-Final-Analisis-de-datos/blob/main/Captura%20de%20pantalla%202023-10-06%20201010.png)<br>
+
+En la siguiente página encontramos, graficos de lineas,que nos permite visualizar el patrimonio neto por años, tablas las cuales nos permiten visualizar, los puestos de los millonarios a nivel global, nombres, edad, ciudad y el patrimonio neto, que al mismo tiempo con ayuda de un treemap y un tooltip, podemos visualizar la fuente de riqueza e cada uno de estos multimillonarios, además se incluyen tarjetas de datos sobre el patrimonio, graficos de barras apiladas, por ciudades y generos,gráficos por Image Grid, que nos dejan hacer una busqueda por generos de manera clara al poder viualizarlo con iconos relacionados al género y por último un gráfico de barra con el porcentaje de hombre y mujeres.<br>
+
+![página2](https://github.com/Leydy-Paola/Proyecto-Final-Analisis-de-datos/blob/main/Captura%20de%20pantalla%202023-10-06%20201025.png)<br>
+
+![página2 treemap](https://github.com/Leydy-Paola/Proyecto-Final-Analisis-de-datos/blob/main/Captura%20de%20pantalla%202023-10-06%20201054.png)<br>
+
+Ahora pasando a la página número tres encontramos un análisis por millonarios, que han obtenido su riqueza por medio heredado o por trabajo propio "hechos a sí mismo",representado en un grafico de anillos, y en un grafico de columnas apiladas visualizando finalmente los nombres de los multimillonarios y sus patrimonios netos.<br>
+
+![página3](https://github.com/Leydy-Paola/Proyecto-Final-Analisis-de-datos/blob/main/Captura%20de%20pantalla%202023-10-06%20201038.png)<br>
 
 4. Resultados y Conclusiones
 Principales hallazgos y conclusiones del análisis de datos.
